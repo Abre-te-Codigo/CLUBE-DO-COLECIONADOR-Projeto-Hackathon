@@ -7,5 +7,5 @@ Uma plataforma que democratiza e facilita o acesso à cultura, por meio de uma i
 - [https://github.com/gfrancodev/AbreteCodigo/](https://github.com/gfrancodev/AbreteCodigo/)
 
 ## Vídeos 
-- [https://youtu.be/XFACMNKRi3Y](https://youtu.be/XFACMNKRi3Y)
-- [https://youtu.be/LOI7V_N2YAA](https://youtu.be/LOI7V_N2YAA)
+- Pitch [https://youtu.be/LOI7V_N2YAA](https://youtu.be/LOI7V_N2YAA)
+- Demo [https://youtu.be/XFACMNKRi3Y](https://youtu.be/XFACMNKRi3Y)
